@@ -1,0 +1,1 @@
+print("app/controllers/score.py - Score endpoint controller")

@@ -1,0 +1,1 @@
+﻿print("app/config/settings.py - Application configuration")

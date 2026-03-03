@@ -1,0 +1,1 @@
+﻿print("ml_core/config/weight_config.py - Weight configuration management")
